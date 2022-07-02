@@ -1,7 +1,9 @@
 ### Whats up! I'm Daniel Pereira!
 
-<p>⚡ I'm a computer engineering student at UFES.<br>
+<p>⚡ I'm a computer engineering student at UFES, brazilian and I'm 18 years old.<br>
 💬 Currently I also work as Web Design and am very interested in UX/UI Design.</p>
+<div> 
+
 <div> 
   <a href="https://instagram.com/danunesx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dannunescontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
