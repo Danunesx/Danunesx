@@ -24,6 +24,7 @@
  <img align="center" alt="Danunesx-C" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
  <img align="center" alt="Danunesx-C#" height="35" width="40" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" />
  <img align="center" alt="Danunesx-JS" height="35" width="40" src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" />
+ <img align="center" alt="Danunesx-MySql" height="35" width="40" src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg" />
 
 <!--
 **Danunesx/Danunesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
