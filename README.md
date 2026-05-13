@@ -1,7 +1,7 @@
 ### Whats up! I'm Daniel Pereira!
 
-<p>⚡ I'm a computer engineering student at UFES, brazilian and I'm 19 years old.<br>
-💬 Currently I also work as Web Design and am very interested in UX/UI Design, GameDev and Data Structure.</p>
+<p>⚡ I'm a computer engineering student at UFES, brazilian and I'm 21 years old.<br>
+💬 Currently I also work as Web Design and am very interested in UX/UI Design, Data Structure, Data Analysis and Machine Learning/MLOps.</p>
 <div> 
 
 <div> 
